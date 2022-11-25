@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Training DO101 with Mr. Sunario Megawan",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon app.js"
   },
