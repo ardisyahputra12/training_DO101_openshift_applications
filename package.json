@@ -1,0 +1,15 @@
+{
+  "name": "practice_openshift_application",
+  "version": "1.0.0",
+  "description": "Training DO101 with Mr. Sunario Megawan",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ardi_saputra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
